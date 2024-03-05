@@ -20,7 +20,7 @@ namespace WordSearch
             {'C', 'A', 'R', 'P', 'E', 'T', 'R', 'W', 'N', 'G', 'V', 'Z'}
         };
 
-        static string[] Words = new string[] 
+        static string[] Words = new string[]
         {
             "CARPET",
             "CHAIR",
